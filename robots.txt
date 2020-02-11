@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiwaphiex.multicorn.org/sitemap.xml
